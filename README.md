@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm C Veena Madhuri</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **Django,python,sql,web-technology**
+- 🌱 I’m skilled at **Python programming,sql,web-technology,Django,ReactJS**
 
 - 📫 How to reach me **veenamadhuric7@gmail.com**
 
